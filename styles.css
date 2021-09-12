@@ -1,0 +1,23 @@
+body {
+  background-color: thistle;
+
+}
+h1
+{
+  color: red;}
+h3
+ {
+  color: green;}
+hr {
+  background-color: thistle;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: red;
+  height: 0px;
+  width: 5%;
+}
+
+img {
+  height: 150px;
+}
